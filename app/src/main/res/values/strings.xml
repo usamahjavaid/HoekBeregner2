@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HoekBeregner2</string>
+    <string name="resultatopg_relse">Resultatopgørelse</string>
+    <string name="oms_tning">Omsætning</string>
+    <string name="vareforbrug">Vareforbrug</string>
+    <string name="bruttofortjeneste">Bruttofortjeneste</string>
+    <string name="markedsf_ringsomkostninger">Markedsføringsomkostninger</string>
+    <string name="markedsf_ringsbidrag">Markedsføringsbidrag</string>
+    <string name="vrige_kapacitetsomkostninger">Øvrige Kapacitetsomkostninger</string>
+    <string name="indtjeningsbidrag">Indtjeningsbidrag</string>
+    <string name="afskrivninger">Afskrivninger</string>
+    <string name="resultat_f_r_renter">Resultat før renter</string>
+    <string name="renteomkostninger">Renteomkostninger</string>
+    <string name="resultat">Resultat</string>
+    <string name="bel_b_angives_i_kr">Beløb angives i kr.</string>
+    <string name="visualiser">Visualiser</string>
+    <string name="generer_balancebudget">+generer balancebudget</string>
+    <string name="eksporter">Eksporter</string>
+</resources>
